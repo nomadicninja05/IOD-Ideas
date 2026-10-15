@@ -1,0 +1,4 @@
+- Lore: refer to the #Lore Graph
+- Coding: #Code
+- Notable Npcs: #Npcs
+- Hey look I am a update Tan
