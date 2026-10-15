@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=Auto
-*.md text
-*.edn text
+*.md text eol=LF
+*.edn text eol=LF
